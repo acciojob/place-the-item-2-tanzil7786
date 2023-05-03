@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.holder div{
+	width:100px;
+	height:100px;
+}
+#id3{
+	background-color:green;
+}
+#id1{
+	background-color:red;
+}
+#id2{
+	background-color:blue;
+}
